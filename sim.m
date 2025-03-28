@@ -1,0 +1,9 @@
+pf = 1.225; %kg/m^3 (fluid density)
+d = 2.5 * 10 ^ -6; %m (diameter)
+pd = 2000; %kg/m^3 (PM2.5 Density)
+g = 9.81; %m/s^2 (accel due to gravity)
+mu = 1.81 * 10 ^ -5; %kg/(ms) (dynamic viscosity of air)
+q = 1; %Coulombs
+sig = 1; %idk
+H = 0.1524; %m
+e0 = 8.845 * 10 ^ -12; %F/m (electric constant)
